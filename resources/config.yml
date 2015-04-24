@@ -1,0 +1,13 @@
+## AllServers Config
+
+lobby:
+  ip: 127.0.0.1
+  port: 19132
+
+survival:
+  ip: 127.0.0.1
+  port: 19133
+  
+creative:
+  ip: 192.168.0.100
+  port: 19132

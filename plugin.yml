@@ -1,0 +1,19 @@
+name: AllServers
+main: AllServers\AllServers
+version: 0.1
+api: ["1.12.0"]
+author: hoyinm14mc
+
+commands:
+  server:
+    description: Connects to a server
+    usage: /server <server name>
+    permission: allservers
+  lobby:
+    description: Connects to the main lobby
+    usage: /lobby
+    permission: allservers
+permission:
+  allservers:
+    default: true
+    
